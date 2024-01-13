@@ -95,6 +95,8 @@ const App = () => {
         />
         <canvas width={640} height={640} ref={canvasRef} />
       </div>
+      <h3>By: Adil agwan, Gaurav Kumar Aloriya, Aman Kumar Saini, Ajay Saini</h3>
+
     </div>
   );
 };
